@@ -1,4 +1,4 @@
-#include<stdio.h> //
+#include<stdio.h> //对于每个测试实例，如果A和B是亲和数的话输出YES，否则输出NO。
 int cul(int x)
 	{
 		int sum,i=0;
