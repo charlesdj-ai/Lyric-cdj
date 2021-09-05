@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lyric-cdj
+- 👋 Hi, I’m @Lyric-cdj, I'm from Cheng Du, China.I'm a student majoring in AI in SCU.
 - 👀 I’m interested in soccer and piano.
 - 🌱 I’m currently learning C++ and python.
 - 💞️ I’m looking to collaborate on ...
