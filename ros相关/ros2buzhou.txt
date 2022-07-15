@@ -1,0 +1,8 @@
+1.安装小乌龟包turtlesim
+sudo apt update
+sudo apt install ros-foxy-turtlesim
+2.检查安装情况
+ros2 pkg executables turtlesim
+3.打开小乌龟
+ros2 run turtlesim turtlesim_node
+
